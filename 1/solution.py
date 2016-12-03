@@ -1,6 +1,5 @@
 current_direction = "N"
 current_location = [0,0]
-directions = ["N","S","E","W"]
 visited_locations = [[0,0]]
 
 # helper function for changing our direction
